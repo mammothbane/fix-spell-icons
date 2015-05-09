@@ -54,4 +54,11 @@ coverage.xml
 docs/_build/
 
 # PyBuilder
-target/
+tgt/
+
+# images shouldn't be preserved
+original
+result
+source
+
+.idea
